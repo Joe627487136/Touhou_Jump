@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OneMinuteGui/Scripts/MenuManager.cs">
+    <Files>
+      <File FileName="Assets/OneMinuteGui/Scripts/MenuManager.cs" Line="115" Column="5" />
+      <File FileName="Assets/UIPrefabs/Index_receiver.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIPrefabs/Score_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIPrefabs/Cha_Selector.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIPrefabs/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIPrefabs/SnL.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIPrefabs/DataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Blur Behind/Example/Assets/FPSMeter.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIPrefabs/Debug_s.cs" Line="1" Column="1" />
+      <File FileName="Assets/UIPrefabs/Cha_Container.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
