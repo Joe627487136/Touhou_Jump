@@ -55,6 +55,19 @@
      <Compile Include="Assets\Blur Behind\Example\Assets\BlurBehindExampleUI.cs" />
      <Compile Include="Assets\Blur Behind\Example\Assets\FPSMeter.cs" />
      <Compile Include="Assets\Blur Behind\Scripts\BlurBehindViewport.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\ParticleEffectsLibrary.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\PEButtonScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\PEDestoryTimed.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\UICanvasManager.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXButtonScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXFireProjectile.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXLoopScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXMouseOrbit.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXProjectileScript.cs" />
+     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXSceneManager.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\ETFXLightFade.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\ETFXPitchRandomizer.cs" />
+     <Compile Include="Assets\Epic Toon FX\Scripts\ETFXRotation.cs" />
      <Compile Include="Assets\Koreographer\Demos\Karaoke Demo\Scripts\KaraokeController.cs" />
      <Compile Include="Assets\Koreographer\Demos\Karaoke Demo\Scripts\KaraokeTextLine.cs" />
      <Compile Include="Assets\Koreographer\Demos\Rhythm Game Demo\Scripts\ButtonController.cs" />
@@ -70,41 +83,50 @@
      <Compile Include="Assets\Koreographer\Demos\Scripts\MusicalImpulse.cs" />
      <Compile Include="Assets\Koreographer\Demos\Scripts\TempoSwitch.cs" />
      <Compile Include="Assets\Koreographer\Demos\Scripts\UIMessageSetter.cs" />
+     <Compile Include="Assets\Main_Game\Color_Manager.cs" />
+     <Compile Include="Assets\Main_Game\GM.cs" />
+     <Compile Include="Assets\Main_Game\Player.cs" />
+     <Compile Include="Assets\Main_Game\Player_Manager.cs" />
      <Compile Include="Assets\OneMinuteGui\Scripts\MenuManager.cs" />
-     <Compile Include="Assets\UIPrefabs\bg_move.cs" />
-     <Compile Include="Assets\UIPrefabs\Btn_Ctrl.cs" />
-     <Compile Include="Assets\UIPrefabs\CameraFollowPlayer.cs" />
-     <Compile Include="Assets\UIPrefabs\Cha_Box.cs" />
-     <Compile Include="Assets\UIPrefabs\Cha_Container.cs" />
-     <Compile Include="Assets\UIPrefabs\Cha_Selector.cs" />
-     <Compile Include="Assets\UIPrefabs\Chamanager.cs" />
-     <Compile Include="Assets\UIPrefabs\DataManager.cs" />
-     <Compile Include="Assets\UIPrefabs\db_s2.cs" />
-     <Compile Include="Assets\UIPrefabs\Debug_s.cs" />
-     <Compile Include="Assets\UIPrefabs\ExJump2D.cs" />
-     <Compile Include="Assets\UIPrefabs\Fading.cs" />
-     <Compile Include="Assets\UIPrefabs\GameManager.cs" />
-     <Compile Include="Assets\UIPrefabs\Index_receiver.cs" />
-     <Compile Include="Assets\UIPrefabs\Jump2D.cs" />
-     <Compile Include="Assets\UIPrefabs\L_Scene.cs" />
-     <Compile Include="Assets\UIPrefabs\LeftRight2D.cs" />
-     <Compile Include="Assets\UIPrefabs\Movement2D.cs" />
-     <Compile Include="Assets\UIPrefabs\oneTimePlant.cs" />
-     <Compile Include="Assets\UIPrefabs\OnGUI2D.cs" />
-     <Compile Include="Assets\UIPrefabs\OTplate_jump.cs" />
-     <Compile Include="Assets\UIPrefabs\Save_Load.cs" />
-     <Compile Include="Assets\UIPrefabs\Score_Manager.cs" />
-     <Compile Include="Assets\UIPrefabs\Score_Tag_Manager.cs" />
-     <Compile Include="Assets\UIPrefabs\Self_destruct.cs" />
-     <Compile Include="Assets\UIPrefabs\SnL.cs" />
-     <Compile Include="Assets\UIPrefabs\Sum_manager.cs" />
-     <Compile Include="Assets\UIPrefabs\UpDown2D.cs" />
-     <Compile Include="Assets\UIPrefabs\Wrap2D.cs" />
+     <Compile Include="Assets\Scripts\bg_move.cs" />
+     <Compile Include="Assets\Scripts\Btn_Ctrl.cs" />
+     <Compile Include="Assets\Scripts\CameraFollowPlayer.cs" />
+     <Compile Include="Assets\Scripts\Cha_Box.cs" />
+     <Compile Include="Assets\Scripts\Cha_Container.cs" />
+     <Compile Include="Assets\Scripts\Cha_Selector.cs" />
+     <Compile Include="Assets\Scripts\Chamanager.cs" />
+     <Compile Include="Assets\Scripts\Char_Spreadsheet_Reader.cs" />
+     <Compile Include="Assets\Scripts\DataManager.cs" />
+     <Compile Include="Assets\Scripts\db_s2.cs" />
+     <Compile Include="Assets\Scripts\Debug_s.cs" />
+     <Compile Include="Assets\Scripts\ExJump2D.cs" />
+     <Compile Include="Assets\Scripts\Fading.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Index_receiver.cs" />
+     <Compile Include="Assets\Scripts\Jump2D.cs" />
+     <Compile Include="Assets\Scripts\L_Scene.cs" />
+     <Compile Include="Assets\Scripts\LeftRight2D.cs" />
+     <Compile Include="Assets\Scripts\Movement2D.cs" />
+     <Compile Include="Assets\Scripts\oneTimePlant.cs" />
+     <Compile Include="Assets\Scripts\OnGUI2D.cs" />
+     <Compile Include="Assets\Scripts\OTplate_jump.cs" />
+     <Compile Include="Assets\Scripts\Save_Load.cs" />
+     <Compile Include="Assets\Scripts\Score_Manager.cs" />
+     <Compile Include="Assets\Scripts\Score_Tag_Manager.cs" />
+     <Compile Include="Assets\Scripts\Self_destruct.cs" />
+     <Compile Include="Assets\Scripts\SimpleJSON.cs" />
+     <Compile Include="Assets\Scripts\SimpleJSONBinary.cs" />
+     <Compile Include="Assets\Scripts\SimpleJSONUnity.cs" />
+     <Compile Include="Assets\Scripts\SnL.cs" />
+     <Compile Include="Assets\Scripts\Sum_manager.cs" />
+     <Compile Include="Assets\Scripts\UpDown2D.cs" />
+     <Compile Include="Assets\Scripts\Wrap2D.cs" />
      <None Include="Assets\Blur Behind\Shaders\UI.shader" />
      <None Include="Assets\OneMinuteGui\Font\CarterOne\OFL.txt" />
      <None Include="Assets\Koreographer\ReadMe.txt" />
      <None Include="Assets\Blur Behind\Shaders\Blur.shader" />
      <None Include="Assets\2D Hand Painted - Dungeon Tileset\Readme.txt" />
+     <None Include="Assets\Epic Toon FX\ETFX Readme.txt" />
      <None Include="Assets\Koreographer\Demos\Karaoke Demo\Audio\GettysburgIntro_LicenseInfo.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -181,14 +203,14 @@
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="SonicBloom.Koreo.EditorUI">
+ <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Editor/Koreographer/SonicBloom.Koreo.EditorUI.dll</HintPath>
+ </Reference>
  <Reference Include="SonicBloom.MIDI">
  <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Koreographer/SonicBloom.MIDI.dll</HintPath>
  </Reference>
  <Reference Include="SonicBloom.Koreo">
  <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Koreographer/Unity Editor/SonicBloom.Koreo.dll</HintPath>
- </Reference>
- <Reference Include="SonicBloom.Koreo.EditorUI">
- <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Editor/Koreographer/SonicBloom.Koreo.EditorUI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/Users/zhouxuexuan/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>

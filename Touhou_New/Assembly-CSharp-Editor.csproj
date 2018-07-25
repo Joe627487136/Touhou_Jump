@@ -127,14 +127,14 @@
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="SonicBloom.Koreo.EditorUI">
+ <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Editor/Koreographer/SonicBloom.Koreo.EditorUI.dll</HintPath>
+ </Reference>
  <Reference Include="SonicBloom.MIDI">
  <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Koreographer/SonicBloom.MIDI.dll</HintPath>
  </Reference>
  <Reference Include="SonicBloom.Koreo">
  <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Koreographer/Unity Editor/SonicBloom.Koreo.dll</HintPath>
- </Reference>
- <Reference Include="SonicBloom.Koreo.EditorUI">
- <HintPath>/Users/zhouxuexuan/Downloads/Touhou_Jump-master/Touhou_New/Assets/Plugins/Editor/Koreographer/SonicBloom.Koreo.EditorUI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/Users/zhouxuexuan/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
