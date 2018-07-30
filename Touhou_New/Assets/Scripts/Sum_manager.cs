@@ -83,7 +83,7 @@ public class Sum_manager : MonoBehaviour {
 		print (total_char_count);
 		for (int i=0; i<total_char_count; i++){
 			string Current_char_rarity = Loader_cha_sheet [i.ToString()] ["Rarity"];
-			print (Loader_cha_sheet [i.ToString()] ["Rarity"]);
+			// print (Loader_cha_sheet [i.ToString()] ["Rarity"]);
 			if (Current_char_rarity == "N") {
 				n_index.Add (i);
 			}
@@ -136,7 +136,7 @@ public class Sum_manager : MonoBehaviour {
 //		r_index.Add (39);//sanae
 //		r_index.Add (42);//cibao
 //		r_index.Add (46);//wohaoheng
-//		r_index.Add (48);//jue
+//		r_index.Add (48);//jue555555555555555555555555555555555555555555
 //		r_index.Add (49);//neko
 //		r_index.Add (54);//yun
 //		r_index.Add (55);//cap

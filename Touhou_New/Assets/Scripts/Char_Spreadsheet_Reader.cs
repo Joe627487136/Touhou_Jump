@@ -15,7 +15,7 @@ public class Char_Spreadsheet_Reader : MonoBehaviour {
 
 	public JSONNode Load_Char_Sheet(){
 		string filePath = Application.dataPath + Char_sheet_file;
-		print ("Char_sheet Loaded");
+		//print ("Char_sheet Loaded");
 		string dataAsJson = File.ReadAllText (filePath);
 		JSONObject Char_Sheet_Json = (JSONObject)JSON.Parse (dataAsJson);
 

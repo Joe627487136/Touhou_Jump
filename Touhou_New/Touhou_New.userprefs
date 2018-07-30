@@ -1,25 +1,22 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIPrefabs/Char_Spreadsheet_Reader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Combat_Handler.cs">
     <Files>
       <File FileName="Assets/OneMinuteGui/Scripts/MenuManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/SnL.cs" Line="29" Column="6" />
       <File FileName="Assets/Main_Game/Player_Manager.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/bg_move.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/Index_receiver.cs" Line="28" Column="30" />
-      <File FileName="Assets/UIPrefabs/Score_Manager.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/Cha_Selector.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/GameManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/DataManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Blur Behind/Example/Assets/FPSMeter.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/Debug_s.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/Cha_Container.cs" Line="1" Column="1" />
       <File FileName="Assets/Main_Game/GM.cs" Line="1" Column="1" />
-      <File FileName="Assets/Main_Game/Player.cs" Line="11" Column="1" />
+      <File FileName="Assets/Main_Game/Player.cs" Line="1" Column="1" />
       <File FileName="Assets/Main_Game/Color_Manager.cs" Line="1" Column="1" />
-      <File FileName="Assets/UIPrefabs/Cha_Box.cs" Line="19" Column="25" />
-      <File FileName="Assets/UIPrefabs/Sum_manager.cs" Line="80" Column="16" />
-      <File FileName="Assets/UIPrefabs/Char_Spreadsheet_Reader.cs" Line="10" Column="26" />
+      <File FileName="Assets/Scripts/Char_Spreadsheet_Reader.cs" Line="16" Column="17" />
+      <File FileName="Assets/Scripts/Sum_manager.cs" Line="95" Column="5" />
+      <File FileName="Assets/Scripts/Fading.cs" Line="18" Column="69" />
+      <File FileName="Assets/Scripts/Orb_Handler.cs" Line="75" Column="4" />
+      <File FileName="Assets/Scripts/Orb_click.cs" Line="27" Column="21" />
+      <File FileName="Assets/Scripts/FadeObjectInOut.cs" Line="33" Column="13" />
+      <File FileName="Assets/Scripts/SnL.cs" Line="18" Column="36" />
+      <File FileName="Assets/Scripts/Combat_Handler.cs" Line="5" Column="15" />
+      <File FileName="Assets/Scripts/Chamanager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

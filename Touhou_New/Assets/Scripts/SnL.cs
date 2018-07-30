@@ -27,6 +27,9 @@ public class SnL : MonoBehaviour {
 
 	void Start(){
 		// Default_Overide (); // Give me money!!!!!
+
+		//Load previous selected index
+
 		if (check_opencount()) {
 			Default_Overide ();
 		}
@@ -165,6 +168,7 @@ public class SnL : MonoBehaviour {
 			Saver saver = (Saver)bf.Deserialize (fs);
 			fs.Close ();
 			DataManager.slct_cha_index = saver.SelectedChaindex;
+			//print (DataManager.slct_cha_index);
 			Debug.Log ("Load cha_index suceeded!");
 		}
 	}
