@@ -13,7 +13,7 @@ public class Beam_caster : MonoBehaviour {
 		// Get from combat_manager
 		skill_toggle = Combat_Handler.skill_toggle;
 		if (skill_toggle == true) {
-			// Set it off
+			// Set it off and send to all enemy
 			Combat_Handler.skill_toggle = false;
 			if (!is_beam_casting) {
 				StartCoroutine (Cast_beam_ani());

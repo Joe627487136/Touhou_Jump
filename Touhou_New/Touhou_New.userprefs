@@ -1,22 +1,26 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Combat_Handler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy_Health_Handler.cs">
     <Files>
       <File FileName="Assets/OneMinuteGui/Scripts/MenuManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Main_Game/Player_Manager.cs" Line="1" Column="1" />
       <File FileName="Assets/Blur Behind/Example/Assets/FPSMeter.cs" Line="1" Column="1" />
-      <File FileName="Assets/Main_Game/GM.cs" Line="1" Column="1" />
-      <File FileName="Assets/Main_Game/Player.cs" Line="1" Column="1" />
-      <File FileName="Assets/Main_Game/Color_Manager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Char_Spreadsheet_Reader.cs" Line="16" Column="17" />
+      <File FileName="Assets/Main_Game/GM.cs" Line="11" Column="31" />
+      <File FileName="Assets/Scripts/Char_Spreadsheet_Reader.cs" Line="16" Column="1" />
       <File FileName="Assets/Scripts/Sum_manager.cs" Line="95" Column="5" />
-      <File FileName="Assets/Scripts/Fading.cs" Line="18" Column="69" />
-      <File FileName="Assets/Scripts/Orb_Handler.cs" Line="75" Column="4" />
-      <File FileName="Assets/Scripts/Orb_click.cs" Line="27" Column="21" />
-      <File FileName="Assets/Scripts/FadeObjectInOut.cs" Line="33" Column="13" />
+      <File FileName="Assets/Scripts/Fading.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Orb_Handler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Orb_click.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FadeObjectInOut.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/SnL.cs" Line="18" Column="36" />
-      <File FileName="Assets/Scripts/Combat_Handler.cs" Line="5" Column="15" />
-      <File FileName="Assets/Scripts/Chamanager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Combat_Handler.cs" Line="173" Column="1" />
+      <File FileName="Assets/Scripts/Chamanager.cs" Line="23" Column="25" />
+      <File FileName="Assets/Scripts/Cha_loader.cs" Line="67" Column="1" />
+      <File FileName="Assets/Scripts/Beam_caster.cs" Line="17" Column="40" />
+      <File FileName="Assets/Scripts/Enemy_melee_behav.cs" Line="15" Column="72" />
+      <File FileName="Assets/Scripts/Enemy_slicing_behav.cs" Line="43" Column="27" />
+      <File FileName="Assets/Scripts/Enemy_Health_Handler.cs" Line="65" Column="38" />
+      <File FileName="Assets/Scripts/Normal_Enemy_spawner.cs" Line="17" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

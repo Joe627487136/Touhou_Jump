@@ -19,6 +19,12 @@ TagManager:
   - Platforms
   - ScoreTag
   - Debug_text
+  - Enemy
+  - Blue_bullet
+  - Green_bullet
+  - Red_bullet
+  - Normal_enm_explosion
+  - Player_hitbox
   layers:
   - Default
   - TransparentFX

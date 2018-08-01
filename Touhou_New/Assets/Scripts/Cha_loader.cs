@@ -11,6 +11,9 @@ public class Cha_loader : MonoBehaviour {
 	public static int passive_skill_value;
 	public static string char_element;
 	public static string[] char_active_skill;
+	public static int char_att;
+	public static int char_def;
+	public static int char_skill_dmg;
 
 
 	// Use this for initialization
@@ -54,5 +57,13 @@ public class Cha_loader : MonoBehaviour {
 			string load_out = loaded_char_active_skill_array [i].ToString().Replace("\"", "");
 			char_active_skill [i] = load_out;
 		}
+		char_skill_dmg = Loader_cha_sheet [selected_char_index.ToString ()] ["Char_skill_damage"].AsInt;
+
+		// Load Cha_att and def
+		int loaded_char_att = Loader_cha_sheet [selected_char_index.ToString ()] ["Attack_value"].AsInt;
+		int loaded_char_def = Loader_cha_sheet [selected_char_index.ToString ()] ["Defence_value"].AsInt;
+		char_att = loaded_char_att;
+		char_def = loaded_char_def;
+
 	}
 }

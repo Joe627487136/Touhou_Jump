@@ -5,15 +5,15 @@
       "Sprite_index": 74,
       "Char_name": "Kunpaku",
       "Char_Element": "Light",
-      "HP": 100,
-      "Attack_value": 5,
+      "HP": 60,
+      "Attack_value": 20,
       "Defence_value": 0
     },
     "1": {
       "Sprite_index": 74,
       "Char_name": "Kisume",
       "Char_Element": "Earth",
-      "HP": 100,
+      "HP": 80,
       "Attack_value": 4,
       "Defence_value": 3
     },
@@ -21,7 +21,7 @@
       "Sprite_index": 76,
       "Char_name": "Alice Doll",
       "Char_Element": "None",
-      "HP": 100,
+      "HP": 22,
       "Attack_value": 5,
       "Defence_value": 4
     }
