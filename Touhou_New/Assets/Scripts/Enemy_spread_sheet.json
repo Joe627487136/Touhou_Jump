@@ -5,7 +5,7 @@
       "Sprite_index": 74,
       "Char_name": "Kunpaku",
       "Char_Element": "Light",
-      "HP": 60,
+      "HP": 70,
       "Attack_value": 20,
       "Defence_value": 0
     },
@@ -24,6 +24,14 @@
       "HP": 22,
       "Attack_value": 5,
       "Defence_value": 4
+    },
+    "3": {
+      "Sprite_index": 76,
+      "Char_name": "Alice Doll",
+      "Char_Element": "None",
+      "HP": 22,
+      "Attack_value": 5,
+      "Defence_value": 4
     }
   },
   "Boss_enemy": {
@@ -31,7 +39,7 @@
       "Sprite_index": 58,
       "Char_name": "Meilin",
       "Char_Element": "None",
-      "HP": 300,
+      "HP": 200,
       "Attack_value": 10,
       "Defence_value": 0
     },
@@ -39,7 +47,7 @@
       "Sprite_index": 63,
       "Char_name": "Flandre",
       "Char_Element": "Fire",
-      "HP": 300,
+      "HP": 350,
       "Boss_skill": "Blinded",
       "Attack_value": 10,
       "Defence_value": 0
@@ -48,7 +56,17 @@
       "Sprite_index": 62,
       "Char_name": "Remilia",
       "Char_Element": "Dark",
-      "HP": 300,
+      "HP": 470,
+      "Boss_skill": "Laser",
+      "Boss_skill_damage": "20",
+      "Attack_value": 10,
+      "Defence_value": 0
+    },
+    "3": {
+      "Sprite_index": 62,
+      "Char_name": "Yukari",
+      "Char_Element": "Dark",
+      "HP": 600,
       "Boss_skill": "Laser",
       "Boss_skill_damage": "20",
       "Attack_value": 10,

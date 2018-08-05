@@ -117,7 +117,7 @@ public class SnL : MonoBehaviour {
 		Debug.Log ("Save suceeded!");
 	}
 
-	void Save(int money){
+	public void Save(int money){
 		BinaryFormatter bf = new BinaryFormatter ();
 		FileStream fs = File.Create (Application.persistentDataPath + "/game_M.octo");
 		Saver saver = new Saver ();

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Appear_effect : MonoBehaviour {
-	float grow_factor = 2f;
+	public float grow_factor = 4.5f;
 	float edge;
 
 

@@ -15,6 +15,7 @@ public class Index_receiver : MonoBehaviour {
 		currentindex = Sum_manager.drawindex;
 		currentrarity = Sum_manager.rarity;
 		Sum_Can = GameObject.FindGameObjectWithTag ("SummonCanvas");
+        //print(Sum_Can.name);
 		Sum_Can.transform.Find ("Cha").GetComponent<Image> ().sprite = Sum_manager.imglist [currentindex].sprite;
 		Sum_Can.transform.Find ("Rarity").GetComponent<Text> ().text = currentrarity;
 		if (!MenuManager.is_summmon_pop) {

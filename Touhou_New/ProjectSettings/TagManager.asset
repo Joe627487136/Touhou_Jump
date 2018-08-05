@@ -25,6 +25,12 @@ TagManager:
   - Red_bullet
   - Normal_enm_explosion
   - Player_hitbox
+  - Barrier
+  - GreenOrb
+  - BlueOrb
+  - ManaCircle
+  - RedOrb
+  - Audio_manager
   layers:
   - Default
   - TransparentFX
@@ -39,8 +45,8 @@ TagManager:
   - JumpPlat
   - otPlant
   - bg
-  - 
-  - 
+  - boss_bullet
+  - barrier
   - 
   - 
   - 

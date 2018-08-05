@@ -8,9 +8,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/S1.unity
     guid: 05e2ddece13fb4ef29a2da64f7c7c5d2
-  - enabled: 0
-    path: Assets/S2.unity
-    guid: d2d2e2fc268b545ac9a3bd9875a772ac
   - enabled: 1
     path: Assets/S2_jump.unity
     guid: 17cd126f587cb4dc2913ee0f6b866a5d
+  - enabled: 1
+    path: Assets/Resources/End_scene.unity
+    guid: f3e56f057e40ed144a643f62639364f0
+  - enabled: 1
+    path: Assets/Dialouge/Flandre-intro.unity
+    guid: dff7878afe358de45bcdb6394d3691b4
+  - enabled: 1
+    path: Assets/Dialouge/Flandre-outro.unity
+    guid: 904016f7eb740c44eb4a35fd327fe5b3
+  - enabled: 1
+    path: Assets/Dialouge/Meiling-outro.unity
+    guid: 95b83f2d1658929468cc75c58f36a865
+  - enabled: 1
+    path: Assets/Dialouge/Meiling-intro.unity
+    guid: 57d9a837c5d5d93478cfadfcc52d810b
+  - enabled: 1
+    path: Assets/Dialouge/Remilia-intro.unity
+    guid: d57fc46f104fef842bba95376e3cb320
+  - enabled: 1
+    path: Assets/Dialouge/Remilia-outro.unity
+    guid: 6595c30ed9ec94945adf7dbdee7aff96

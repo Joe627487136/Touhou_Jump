@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 0816291804374cd4586afaa77ba43f30
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blueExplosion_0
+    21300002: blueExplosion_1
+    21300004: blueExplosion_2
+    21300006: blueExplosion_3
+    21300008: blueExplosion_4
+    21300010: blueExplosion_5
+    21300012: blueExplosion_6
+    21300014: blueExplosion_7
+    21300016: blueExplosion_8
+    21300018: blueExplosion_9
+    21300020: blueExplosion_10
+    21300022: blueExplosion_11
+    21300024: blueExplosion_12
+    21300026: blueExplosion_13
+    21300028: blueExplosion_14
+    21300030: blueExplosion_15
+    21300032: blueExplosion_16
+    21300034: blueExplosion_23
+    21300036: blueExplosion_26
+    21300038: blueExplosion_28
+    21300040: blueExplosion_32
+    21300042: blueExplosion_35
+    21300044: blueExplosion_39
+    21300046: blueExplosion_40
+    21300048: blueExplosion_41
+    21300050: blueExplosion_42
+    21300052: blueExplosion_43
+    21300054: blueExplosion_44
+    21300056: blueExplosion_45
+    21300058: blueExplosion_46
+    21300060: blueExplosion_47
+    21300062: blueExplosion_48
+    21300064: blueExplosion_49
+    21300066: blueExplosion_50
+    21300068: blueExplosion_51
+    21300070: blueExplosion_52
+    21300072: blueExplosion_53
+    21300074: blueExplosion_54
+    21300076: blueExplosion_55
+    21300078: blueExplosion_56
+    21300080: blueExplosion_57
+    21300082: blueExplosion_58
+    21300084: blueExplosion_59
+    21300086: blueExplosion_60
+    21300088: blueExplosion_61
+    21300090: blueExplosion_62
+    21300092: blueExplosion_63
+    21300094: blueExplosion_64
+    21300096: blueExplosion_65
+    21300098: blueExplosion_66
+    21300100: blueExplosion_67
+    21300102: blueExplosion_68
+    21300104: blueExplosion_69
+    21300106: blueExplosion_70
+    21300108: blueExplosion_71
+    21300110: blueExplosion_72
+    21300112: blueExplosion_73
+    21300114: blueExplosion_74
+    21300116: blueExplosion_75
+    21300118: blueExplosion_76
+    21300120: blueExplosion_77
+    21300122: blueExplosion_78
+    21300124: blueExplosion_79
+    21300126: blueExplosion_80
+    21300128: blueExplosion_81
+    21300130: blueExplosion_82
+    21300132: blueExplosion_83
+    21300134: blueExplosion_84
+    21300136: blueExplosion_85
+    21300138: blueExplosion_86
+    21300140: blueExplosion_87
+    21300142: blueExplosion_88
+    21300144: blueExplosion_89
+    21300146: blueExplosion_90
+    21300148: blueExplosion_91
+    21300150: blueExplosion_92
+    21300152: blueExplosion_93
+    21300154: blueExplosion_94
+    21300156: blueExplosion_95
+    21300158: blueExplosion_96
+    21300160: blueExplosion_97
+    21300162: blueExplosion_98
+    21300164: blueExplosion_99
+    21300166: blueExplosion_100
+    21300168: blueExplosion_101
+    21300170: blueExplosion_103
+    21300172: blueExplosion_104
+    21300174: blueExplosion_105
+    21300176: blueExplosion_106
+    21300178: blueExplosion_107
+    21300180: blueExplosion_108
+    21300182: blueExplosion_109
+    21300184: blueExplosion_110
+    21300186: blueExplosion_111
+    21300188: blueExplosion_112
+    21300190: blueExplosion_113
+    21300192: blueExplosion_114
+    21300194: blueExplosion_115
+    21300196: blueExplosion_116
+    21300198: blueExplosion_117
+    21300200: blueExplosion_118
+    21300202: blueExplosion_119
+    21300204: blueExplosion_120
+    21300206: blueExplosion_121
+    21300208: blueExplosion_122
+    21300210: blueExplosion_123
+    21300212: blueExplosion_124
+    21300214: blueExplosion_125
+    21300216: blueExplosion_126
+    21300218: blueExplosion_127
+    21300220: blueExplosion_128
+    21300222: blueExplosion_129
+    21300224: blueExplosion_130
+    21300226: blueExplosion_131
+    21300228: blueExplosion_132
+    21300230: blueExplosion_133
+    21300232: blueExplosion_134
+    21300234: blueExplosion_135
+    21300236: blueExplosion_136
+    21300238: blueExplosion_137
+    21300240: blueExplosion_138
+    21300242: blueExplosion_139
+    21300244: blueExplosion_140
+    21300246: blueExplosion_141
+    21300248: blueExplosion_142
+    21300250: blueExplosion_143
+    21300252: blueExplosion_144
+    21300254: blueExplosion_145
+    21300256: blueExplosion_146
+    21300258: blueExplosion_147
+    21300260: blueExplosion_148
+    21300262: blueExplosion_149
+    21300264: blueExplosion_150
+    21300266: blueExplosion_151
+    21300268: blueExplosion_152
+    21300270: blueExplosion_153
+    21300272: blueExplosion_154
+    21300274: blueExplosion_155
+    21300276: blueExplosion_156
+    21300278: blueExplosion_157
+    21300280: blueExplosion_158
+    21300282: blueExplosion_159
+    21300284: blueExplosion_160
+    21300286: blueExplosion_161
+    21300288: blueExplosion_162
+    21300290: blueExplosion_163
+    21300292: blueExplosion_164
+    21300294: blueExplosion_165
+    21300296: blueExplosion_166
+    21300298: blueExplosion_167
+    21300300: blueExplosion_168
+    21300302: blueExplosion_169
+    21300304: blueExplosion_170
+    21300306: blueExplosion_171
+    21300308: blueExplosion_172
+    21300310: blueExplosion_173
+    21300312: blueExplosion_174
+    21300314: blueExplosion_175
+    21300316: blueExplosion_176
+    21300318: blueExplosion_177
+    21300320: blueExplosion_178
+    21300322: blueExplosion_179
+    21300324: blueExplosion_180
+    21300326: blueExplosion_181
+    21300328: blueExplosion_182
+    21300330: blueExplosion_183
+    21300332: blueExplosion_184
+    21300334: blueExplosion_185
+    21300336: blueExplosion_186
+    21300338: blueExplosion_187
+    21300340: blueExplosion_188
+    21300342: blueExplosion_189
+    21300344: blueExplosion_190
+    21300346: blueExplosion_191
+    21300348: blueExplosion_192
+    21300350: blueExplosion_193
+    21300352: blueExplosion_194
+    21300354: blueExplosion_195
+    21300356: blueExplosion_196
+    21300358: blueExplosion_197
+    21300360: blueExplosion_198
+    21300362: blueExplosion_199
+    21300364: blueExplosion_200
+    21300366: blueExplosion_201
+    21300368: blueExplosion_202
+    21300370: blueExplosion_203
+    21300372: blueExplosion_204
+    21300374: blueExplosion_205
+    21300376: blueExplosion_206
+    21300378: blueExplosion_207
+    21300380: blueExplosion_208
+    21300382: blueExplosion_209
+    21300384: blueExplosion_210
+    21300386: blueExplosion_211
+    21300388: blueExplosion_212
+    21300390: blueExplosion_213
+    21300392: blueExplosion_214
+    21300394: blueExplosion_215
+    21300396: blueExplosion_216
+    21300398: blueExplosion_217
+    21300400: blueExplosion_218
+    21300402: blueExplosion_219
+    21300404: blueExplosion_220
+    21300406: blueExplosion_221
+    21300408: blueExplosion_222
+    21300410: blueExplosion_223
+    21300412: blueExplosion_224
+    21300414: blueExplosion_225
+    21300416: blueExplosion_226
+    21300418: blueExplosion_227
+    21300420: blueExplosion_228
+    21300422: blueExplosion_229
+    21300424: blueExplosion_230
+    21300426: blueExplosion_231
+    21300428: blueExplosion_232
+    21300430: blueExplosion_233
+    21300432: blueExplosion_234
+    21300434: blueExplosion_235
+    21300436: blueExplosion_236
+    21300438: blueExplosion_237
+    21300440: blueExplosion_238
+    21300442: blueExplosion_239
+    21300444: blueExplosion_240
+    21300446: blueExplosion_241
+    21300448: blueExplosion_242
+    21300450: blueExplosion_243
+    21300452: blueExplosion_244
+    21300454: blueExplosion_245
+    21300456: blueExplosion_246
+    21300458: blueExplosion_247
+    21300460: blueExplosion_248
+    21300462: blueExplosion_249
+    21300464: blueExplosion_250
+    21300466: blueExplosion_251
+    21300468: blueExplosion_252
+    21300470: blueExplosion_253
+    21300472: blueExplosion_254
+    21300474: blueExplosion_255
+    21300476: blueExplosion_256
+    21300478: blueExplosion_257
+    21300480: blueExplosion_258
+    21300482: blueExplosion_259
+    21300484: blueExplosion_260
+    21300486: blueExplosion_261
+    21300488: blueExplosion_262
+    21300490: blueExplosion_263
+    21300492: blueExplosion_264
+    21300494: blueExplosion_265
+    21300496: blueExplosion_266
+    21300498: blueExplosion_267
+    21300500: blueExplosion_268
+    21300502: blueExplosion_269
+    21300504: blueExplosion_270
+    21300506: blueExplosion_271
+    21300508: blueExplosion_272
+    21300510: blueExplosion_273
+    21300512: blueExplosion_274
+    21300514: blueExplosion_275
+    21300516: blueExplosion_276
+    21300518: blueExplosion_277
+    21300520: blueExplosion_278
+    21300522: blueExplosion_279
+    21300524: blueExplosion_280
+    21300526: blueExplosion_281
+    21300528: blueExplosion_282
+    21300530: blueExplosion_283
+    21300532: blueExplosion_284
+    21300534: blueExplosion_285
+    21300536: blueExplosion_286
+    21300538: blueExplosion_287
+    21300540: blueExplosion_288
+    21300542: blueExplosion_289
+    21300544: blueExplosion_290
+    21300546: blueExplosion_291
+    21300548: blueExplosion_292
+    21300550: blueExplosion_293
+    21300552: blueExplosion_294
+    21300554: blueExplosion_295
+    21300556: blueExplosion_296
+    21300558: blueExplosion_297
+    21300560: blueExplosion_298
+    21300562: blueExplosion_299
+    21300564: blueExplosion_300
+    21300566: blueExplosion_301
+    21300568: blueExplosion_302
+    21300570: blueExplosion_303
+    21300572: blueExplosion_304
+    21300574: blueExplosion_305
+    21300576: blueExplosion_306
+    21300578: blueExplosion_307
+    21300580: blueExplosion_308
+    21300582: blueExplosion_309
+    21300584: blueExplosion_310
+    21300586: blueExplosion_311
+    21300588: blueExplosion_312
+    21300590: blueExplosion_313
+    21300592: blueExplosion_314
+    21300594: blueExplosion_315
+    21300596: blueExplosion_316
+    21300598: blueExplosion_317
+    21300600: blueExplosion_318
+    21300602: blueExplosion_319
+    21300604: blueExplosion_320
+    21300606: blueExplosion_321
+    21300608: blueExplosion_322
+    21300610: blueExplosion_323
+    21300612: blueExplosion_324
+    21300614: blueExplosion_325
+    21300616: blueExplosion_326
+    21300618: blueExplosion_327
+    21300620: blueExplosion_328
+    21300622: blueExplosion_329
+    21300624: blueExplosion_330
+    21300626: blueExplosion_331
+    21300628: blueExplosion_332
+    21300630: blueExplosion_333
+    21300632: blueExplosion_334
+    21300634: blueExplosion_335
+    21300636: blueExplosion_336
+    21300638: blueExplosion_337
+    21300640: blueExplosion_338
+    21300642: blueExplosion_339
+    21300644: blueExplosion_340
+    21300646: blueExplosion_341
+    21300648: blueExplosion_342
+    21300650: blueExplosion_343
+    21300652: blueExplosion_344
+    21300654: blueExplosion_345
+    21300656: blueExplosion_346
+    21300658: blueExplosion_347
+    21300660: blueExplosion_348
+    21300662: blueExplosion_349
+    21300664: blueExplosion_350
+    21300666: blueExplosion_351
+    21300668: blueExplosion_352
+    21300670: blueExplosion_353
+    21300672: blueExplosion_354
+    21300674: blueExplosion_355
+    21300676: blueExplosion_356
+    21300678: blueExplosion_357
+    21300680: blueExplosion_358
+    21300682: blueExplosion_359
+    21300684: blueExplosion_360
+    21300686: blueExplosion_361
+    21300688: blueExplosion_362
+    21300690: blueExplosion_363
+    21300692: blueExplosion_364
+    21300694: blueExplosion_365
+    21300696: blueExplosion_366
+    21300698: blueExplosion_367
+    21300700: blueExplosion_368
+    21300702: blueExplosion_369
+    21300704: blueExplosion_370
+    21300706: blueExplosion_371
+    21300708: blueExplosion_372
+    21300710: blueExplosion_373
+    21300712: blueExplosion_374
+    21300714: blueExplosion_375
+    21300716: blueExplosion_376
+    21300718: blueExplosion_377
+    21300720: blueExplosion_378
+    21300722: blueExplosion_379
+    21300724: blueExplosion_380
+    21300726: blueExplosion_381
+    21300728: blueExplosion_382
+    21300730: blueExplosion_383
+    21300732: blueExplosion_384
+    21300734: blueExplosion_385
+    21300736: blueExplosion_386
+    21300738: blueExplosion_387
+    21300740: blueExplosion_388
+    21300742: blueExplosion_389
+    21300744: blueExplosion_390
+    21300746: blueExplosion_391
+    21300748: blueExplosion_392
+    21300750: blueExplosion_393
+    21300752: blueExplosion_394
+    21300754: blueExplosion_395
+    21300756: blueExplosion_396
+    21300758: blueExplosion_397
+    21300760: blueExplosion_398
+    21300762: blueExplosion_399
+    21300764: blueExplosion_400
+    21300766: blueExplosion_401
+    21300768: blueExplosion_402
+    21300770: blueExplosion_403
+    21300772: blueExplosion_404
+    21300774: blueExplosion_405
+    21300776: blueExplosion_406
+    21300778: blueExplosion_407
+    21300780: blueExplosion_408
+    21300782: blueExplosion_409
+    21300784: blueExplosion_410
+    21300786: blueExplosion_411
+    21300788: blueExplosion_412
+    21300790: blueExplosion_413
+    21300792: blueExplosion_414
+    21300794: blueExplosion_415
+    21300796: blueExplosion_416
+    21300798: blueExplosion_417
+    21300800: blueExplosion_418
+    21300802: blueExplosion_419
+    21300804: blueExplosion_420
+    21300806: blueExplosion_421
+    21300808: blueExplosion_422
+    21300810: blueExplosion_423
+    21300812: blueExplosion_424
+    21300814: blueExplosion_425
+    21300816: blueExplosion_426
+    21300818: blueExplosion_427
+    21300820: blueExplosion_428
+    21300822: blueExplosion_429
+    21300824: blueExplosion_430
+    21300826: blueExplosion_431
+    21300828: blueExplosion_432
+    21300830: blueExplosion_433
+    21300832: blueExplosion_434
+    21300834: blueExplosion_435
+    21300836: blueExplosion_436
+    21300838: blueExplosion_437
+    21300840: blueExplosion_438
+    21300842: blueExplosion_439
+    21300844: blueExplosion_440
+    21300846: blueExplosion_441
+    21300848: blueExplosion_442
+    21300850: blueExplosion_443
+    21300852: blueExplosion_444
+    21300854: blueExplosion_445
+    21300856: blueExplosion_446
+    21300858: blueExplosion_447
+    21300860: blueExplosion_448
+    21300862: blueExplosion_449
+    21300864: blueExplosion_450
+    21300866: blueExplosion_451
+    21300868: blueExplosion_452
+    21300870: blueExplosion_453
+    21300872: blueExplosion_454
+    21300874: blueExplosion_455
+    21300876: blueExplosion_456
+    21300878: blueExplosion_457
+    21300880: blueExplosion_458
+    21300882: blueExplosion_459
+    21300884: blueExplosion_460
+    21300886: blueExplosion_461
+    21300888: blueExplosion_462
+    21300890: blueExplosion_463
+    21300892: blueExplosion_464
+    21300894: blueExplosion_465
+    21300896: blueExplosion_466
+    21300898: blueExplosion_467
+    21300900: blueExplosion_468
+    21300902: blueExplosion_469
+    21300904: blueExplosion_470
+    21300906: blueExplosion_471
+    21300908: blueExplosion_472
+    21300910: blueExplosion_473
+    21300912: blueExplosion_474
+    21300914: blueExplosion_475
+    21300916: blueExplosion_476
+    21300918: blueExplosion_477
+    21300920: blueExplosion_478
+    21300922: blueExplosion_479
+    21300924: blueExplosion_480
+    21300926: blueExplosion_481
+    21300928: blueExplosion_482
+    21300930: blueExplosion_483
+    21300932: blueExplosion_484
+    21300934: blueExplosion_485
+    21300936: blueExplosion_486
+    21300938: blueExplosion_487
+    21300940: blueExplosion_488
+    21300942: blueExplosion_489
+    21300944: blueExplosion_490
+    21300946: blueExplosion_491
+    21300948: blueExplosion_492
+    21300950: blueExplosion_493
+    21300952: blueExplosion_494
+    21300954: blueExplosion_495
+    21300956: blueExplosion_496
+    21300958: blueExplosion_497
+    21300960: blueExplosion_498
+    21300962: blueExplosion_499
+    21300964: blueExplosion_500
+    21300966: blueExplosion_501
+    21300968: blueExplosion_502
+    21300970: blueExplosion_503
+    21300972: blueExplosion_504
+    21300974: blueExplosion_505
+    21300976: blueExplosion_506
+    21300978: blueExplosion_507
+    21300980: blueExplosion_508
+    21300982: blueExplosion_509
+    21300984: blueExplosion_510
+    21300986: blueExplosion_511
+    21300988: blueExplosion_512
+    21300990: blueExplosion_513
+    21300992: blueExplosion_514
+    21300994: blueExplosion_515
+    21300996: blueExplosion_516
+    21300998: blueExplosion_517
+    21301000: blueExplosion_518
+    21301002: blueExplosion_519
+    21301004: blueExplosion_520
+    21301006: blueExplosion_521
+    21301008: blueExplosion_522
+    21301010: blueExplosion_523
+    21301012: blueExplosion_524
+    21301014: blueExplosion_525
+    21301016: blueExplosion_526
+    21301018: blueExplosion_527
+    21301020: blueExplosion_528
+    21301022: blueExplosion_529
+    21301024: blueExplosion_530
+    21301026: blueExplosion_531
+    21301028: blueExplosion_532
+    21301030: blueExplosion_533
+    21301032: blueExplosion_534
+    21301034: blueExplosion_535
+    21301036: blueExplosion_536
+    21301038: blueExplosion_537
+    21301040: blueExplosion_538
+    21301042: blueExplosion_539
+    21301044: blueExplosion_540
+    21301046: blueExplosion_541
+    21301048: blueExplosion_542
+    21301050: blueExplosion_543
+    21301052: blueExplosion_544
+    21301054: blueExplosion_545
+    21301056: blueExplosion_546
+    21301058: blueExplosion_547
+    21301060: blueExplosion_548
+    21301062: blueExplosion_549
+    21301064: blueExplosion_550
+    21301066: blueExplosion_551
+    21301068: blueExplosion_552
+    21301070: blueExplosion_553
+    21301072: blueExplosion_554
+    21301074: blueExplosion_555
+    21301076: blueExplosion_556
+    21301078: blueExplosion_557
+    21301080: blueExplosion_558
+    21301082: blueExplosion_559
+    21301084: blueExplosion_560
+    21301086: blueExplosion_561
+    21301088: blueExplosion_562
+    21301090: blueExplosion_563
+    21301092: blueExplosion_564
+    21301094: blueExplosion_565
+    21301096: blueExplosion_566
+    21301098: blueExplosion_567
+    21301100: blueExplosion_568
+    21301102: blueExplosion_569
+    21301104: blueExplosion_570
+    21301106: blueExplosion_571
+    21301108: blueExplosion_572
+    21301110: blueExplosion_573
+    21301112: blueExplosion_574
+    21301114: blueExplosion_575
+    21301116: blueExplosion_576
+    21301118: blueExplosion_577
+    21301120: blueExplosion_578
+    21301122: blueExplosion_579
+    21301124: blueExplosion_580
+    21301126: blueExplosion_581
+    21301128: blueExplosion_582
+    21301130: blueExplosion_583
+    21301132: blueExplosion_584
+    21301134: blueExplosion_585
+    21301136: blueExplosion_586
+    21301138: blueExplosion_587
+    21301140: blueExplosion_588
+    21301142: blueExplosion_589
+    21301144: blueExplosion_590
+    21301146: blueExplosion_591
+    21301148: blueExplosion_592
+    21301150: blueExplosion_593
+    21301152: blueExplosion_594
+    21301154: blueExplosion_595
+    21301156: blueExplosion_596
+    21301158: blueExplosion_597
+    21301160: blueExplosion_598
+    21301162: blueExplosion_599
+    21301164: blueExplosion_600
+    21301166: blueExplosion_601
+    21301168: blueExplosion_602
+    21301170: blueExplosion_603
+    21301172: blueExplosion_604
+    21301174: blueExplosion_605
+    21301176: blueExplosion_606
+    21301178: blueExplosion_607
+    21301180: blueExplosion_608
+    21301182: blueExplosion_609
+    21301184: blueExplosion_610
+    21301186: blueExplosion_611
+    21301188: blueExplosion_612
+    21301190: blueExplosion_613
+    21301192: blueExplosion_614
+    21301194: blueExplosion_615
+    21301196: blueExplosion_616
+    21301198: blueExplosion_617
+    21301200: blueExplosion_618
+    21301202: blueExplosion_619
+    21301204: blueExplosion_620
+    21301206: blueExplosion_621
+    21301208: blueExplosion_622
+    21301210: blueExplosion_623
+    21301212: blueExplosion_624
+    21301214: blueExplosion_625
+    21301216: blueExplosion_626
+    21301218: blueExplosion_627
+    21301220: blueExplosion_628
+    21301222: blueExplosion_629
+    21301224: blueExplosion_630
+    21301226: blueExplosion_631
+    21301228: blueExplosion_632
+    21301230: blueExplosion_633
+    21301232: blueExplosion_634
+    21301234: blueExplosion_635
+    21301236: blueExplosion_636
+    21301238: blueExplosion_637
+    21301240: blueExplosion_638
+    21301242: blueExplosion_639
+    21301244: blueExplosion_640
+    21301246: blueExplosion_641
+    21301248: blueExplosion_642
+    21301250: blueExplosion_643
+    21301252: blueExplosion_644
+    21301254: blueExplosion_645
+    21301256: blueExplosion_646
+    21301258: blueExplosion_647
+    21301260: blueExplosion_648
+    21301262: blueExplosion_649
+    21301264: blueExplosion_650
+    21301266: blueExplosion_651
+    21301268: blueExplosion_652
+    21301270: blueExplosion_653
+    21301272: blueExplosion_654
+    21301274: blueExplosion_655
+    21301276: blueExplosion_656
+    21301278: blueExplosion_657
+    21301280: blueExplosion_658
+    21301282: blueExplosion_659
+    21301284: blueExplosion_660
+    21301286: blueExplosion_661
+    21301288: blueExplosion_662
+    21301290: blueExplosion_663
+    21301292: blueExplosion_664
+    21301294: blueExplosion_665
+    21301296: blueExplosion_666
+    21301298: blueExplosion_667
+    21301300: blueExplosion_668
+    21301302: blueExplosion_669
+    21301304: blueExplosion_670
+    21301306: blueExplosion_671
+    21301308: blueExplosion_672
+    21301310: blueExplosion_673
+    21301312: blueExplosion_674
+    21301314: blueExplosion_675
+    21301316: blueExplosion_676
+    21301318: blueExplosion_677
+    21301320: blueExplosion_678
+    21301322: blueExplosion_679
+    21301324: blueExplosion_680
+    21301326: blueExplosion_681
+    21301328: blueExplosion_682
+    21301330: blueExplosion_683
+    21301332: blueExplosion_684
+    21301334: blueExplosion_685
+    21301336: blueExplosion_686
+    21301338: blueExplosion_687
+    21301340: blueExplosion_688
+    21301342: blueExplosion_689
+    21301344: blueExplosion_690
+    21301346: blueExplosion_691
+    21301348: blueExplosion_692
+    21301350: blueExplosion_693
+    21301352: blueExplosion_694
+    21301354: blueExplosion_695
+    21301356: blueExplosion_696
+    21301358: blueExplosion_697
+    21301360: blueExplosion_698
+    21301362: blueExplosion_699
+    21301364: blueExplosion_700
+    21301366: blueExplosion_701
+    21301368: blueExplosion_702
+    21301370: blueExplosion_703
+    21301372: blueExplosion_17
+    21301374: blueExplosion_17
+    21301376: blueExplosion_18
+    21301378: blueExplosion_19
+    21301380: blueExplosion_20
+    21301382: blueExplosion_21
+    21301384: blueExplosion_22
+    21301386: blueExplosion_24
+    21301388: blueExplosion_25
+    21301390: blueExplosion_27
+    21301392: blueExplosion_29
+    21301394: blueExplosion_30
+    21301396: blueExplosion_31
+    21301398: blueExplosion_33
+    21301400: blueExplosion_37
+    21301402: blueExplosion_38
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1349
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c4b654127ac9e42843820508a4d165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1348
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307e356d4bc16204b99e07bfb52a8afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1347
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68005485f5e0de44f80e99cd6cc77089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1346
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e3cd23cc880d74eaf9fac8fa5e4daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1152
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177828b5af7e9264cb28235363e911e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1152
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d01b22bcf6c9e945abcc3b9bec214fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1155
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bf9a50d63855d43af9fe29becad8fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1153
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748d4fb5a6967448834adb9dd373b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1152
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e35f9c462492545b5d8aa12e0668b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 961
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c6c04b4cda604c80dbd6fc449b6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 959
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13deccf16c80d1047bf7f5e0ee5c58ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 959
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ed5dba00e0d341adf1359e28cbef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 960
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888af5e8ba3e36f44b291273592aead5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 955
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee29bb48923f242aa7b26aca66d1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 766
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf0ee4d067fc04aa4292e4676df00a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 762
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1336edb110914997f66873c39fa4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 762
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd2145cb6dd30b4396d38ffc62ca1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 758
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7efd02f60e1ed419cf8dc7e9fbe2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 760
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d012d46930b82e439c2667677b3f9b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 568
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f0076f65f1df049b80ad7151eb7810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 569
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69c96e0b92429498129fe3ecc5b745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 568
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61873cc850b63034cbfdb5f4ea934892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 569
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa5659bed915440969c8d48f3abf18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 566
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f85fdd79731b29408a18c24be9e022f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 375
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caaec1d2de220e41800a18e17397d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 375
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1348cfb307f34b9d1f1314e396c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 375
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfce5b6c3ee9fb4fa4dfd339919d89c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 376
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1e0de1070002a4ba3b70a415250644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 378
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c1a08d665955429a8a13e1d3ad026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea33c1512f2e441a707aa0b542d6e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 176
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a89139f7f12b47b458ebdcdd08711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 176
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f31aa15d14281468c4a2a09b56cdc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 176
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f130ed447d2fda4f9e224f41c43119e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 176
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f633349068798b4cb7c43badae4cb6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb689969afbfae34a8168e02dd401aed
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

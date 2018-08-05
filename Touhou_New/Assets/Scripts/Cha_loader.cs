@@ -14,6 +14,7 @@ public class Cha_loader : MonoBehaviour {
 	public static int char_att;
 	public static int char_def;
 	public static int char_skill_dmg;
+    
 
 
 	// Use this for initialization
@@ -45,6 +46,10 @@ public class Cha_loader : MonoBehaviour {
 			passive_skill_up_orb = Loader_cha_sheet [selected_char_index.ToString ()] ["Passive_skill_up_orb"].ToString ().Replace("\"", "");
 			passive_skill_value = Loader_cha_sheet [selected_char_index.ToString ()] ["Passive_skill_value"].AsInt;
 		}
+
+        if (passive_skill_type == "Dodge") {
+            passive_skill_value = Loader_cha_sheet[selected_char_index.ToString()]["Passive_skill_value"].AsInt;
+        }
 
 		// Load Cha_element
 		char_element = Loader_cha_sheet [selected_char_index.ToString ()] ["Char_Element"].ToString ().Replace("\"", "");

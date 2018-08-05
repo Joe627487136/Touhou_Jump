@@ -9,9 +9,9 @@ public class Play_movement_animation : MonoBehaviour {
 
 	void Jump_check(){
 		if (jump_signal) {
-			Vector2 up_a_bit = new Vector2 (0.0f, 1f);
+			Vector2 up_a_bit = new Vector2 (0.0f, 500f);
 			this.gameObject.GetComponent<Rigidbody2D> ().AddForce (up_a_bit);
-			print ("jump!");
+			//print ("jump!");
 			jump_signal = false;
 		}
 	}

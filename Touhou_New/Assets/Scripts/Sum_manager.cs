@@ -80,7 +80,7 @@ public class Sum_manager : MonoBehaviour {
 	}
 
 	void register_index_list_rework(){
-		print (total_char_count);
+		//print (total_char_count);
 		for (int i=0; i<total_char_count; i++){
 			string Current_char_rarity = Loader_cha_sheet [i.ToString()] ["Rarity"];
 			// print (Loader_cha_sheet [i.ToString()] ["Rarity"]);
